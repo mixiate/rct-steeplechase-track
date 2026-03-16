@@ -1,7 +1,7 @@
 # Blender 5.0.0 MTL File: 'rct-steeplechase-track.blend'
 # www.blender.org
 
-newmtl Remap2_DarkEdge_NoAO
+newmtl Remap2_Edge_NoAO
 Ns 10.000005
 Kd 0.318555 0.318555 0.318555
 Ks 1.000000 1.000000 1.000000
